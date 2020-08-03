@@ -5,7 +5,7 @@ import argparse
 
 # Creating argument parser to take image path from command line
 
-img_path = '/home/Desktop/images.jpeg'
+img_path = '/home/Desktop/images.jpe'
 
 # Reading the image with opencv
 img = cv2.imread(img_path)
